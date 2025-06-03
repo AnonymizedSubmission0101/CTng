@@ -1,0 +1,9 @@
+Configuration Loaded: 2 CA(s), 2 Logger(s), 4 Monitor(s)
+L2
+[3 24 31 31 168 203 49 251 253 21 232 142 152 201 218 165 199 140 198 64 111 190 112 201 195 94 84 213 165 172 212 112]
+[101 105 136 4 199 178 233 190 231 65 33 27 72 230 166 34 9 143 154 231 115 218 73 93 27 37 236 122 56 17 84 188]
+Update sent to 127.0.2.30:8004, Traffic: 4445239 bytes
+Update sent to 127.0.2.32:8006, Traffic: 4445239 bytes
+Update sent to 127.0.2.31:8005, Traffic: 4445239 bytes
+Update sent to 127.0.2.33:8007, Traffic: 4445239 bytes
+Total traffic sent for EEA updates: 17780956 bytes

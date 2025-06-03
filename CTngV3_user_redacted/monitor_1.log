@@ -1,0 +1,148 @@
+Configuration Loaded: 2 CA(s), 2 Logger(s), 4 Monitor(s)
+M1
+erasure encoding algorithm
+Starting EEA Server
+Converge times successfully dumped to M1.json
+Current Time: 2025-06-02T21:54:04-04:00
+[34mListening on port: 8004 [0m
+Processing update from CA ID (CAID): C2, Monitor ID (MID): M1
+Update received, originally assigned to:  M1
+Number of data fragments collected: 1
+request received
+Processing update from CA ID (CAID): C1, Monitor ID (MID): M1
+Update received, originally assigned to:  M1
+Number of data fragments collected: 1
+request received
+Notification received, originally assigned to:  M1  with CAID =  C2
+Notification received, originally assigned to:  M1  with CAID =  C1
+Notification received, originally assigned to:  M1  with CAID =  C2
+Notification received, originally assigned to:  M1  with CAID =  C2
+Notification received, originally assigned to:  M1  with CAID =  C1
+Notification received, originally assigned to:  M1  with CAID =  C2
+Notification received, originally assigned to:  M1  with CAID =  C1
+Notification received, originally assigned to:  M1  with CAID =  C1
+Notification received, originally assigned to:  M2  with CAID =  C2
+Processing update from CA ID (CAID): C2, Monitor ID (MID): M2
+Update received, originally assigned to:  M2
+Number of data fragments collected: 2
+request received
+Notification received, originally assigned to:  M2  with CAID =  C1
+Notification received, originally assigned to:  M2  with CAID =  C2
+Processing update from CA ID (CAID): C1, Monitor ID (MID): M2
+Update received, originally assigned to:  M2
+Number of data fragments collected: 2
+request received
+Notification received, originally assigned to:  M2  with CAID =  C2
+Notification received, originally assigned to:  M2  with CAID =  C1
+Notification received, originally assigned to:  M2  with CAID =  C1
+Notification received, originally assigned to:  M2  with CAID =  C2
+CA index mapped from CAID = 0 datafragmentindex mapped from MID =  1 with Bmode:  minimal wait time
+CA index mapped from CAID = 1 datafragmentindex mapped from MID =  1 with Bmode:  minimal wait time
+Notification received, originally assigned to:  M2  with CAID =  C1
+Notification received, originally assigned to:  M3  with CAID =  C1
+Processing update from CA ID (CAID): C1, Monitor ID (MID): M3
+Update received, originally assigned to:  M3
+Number of data fragments collected: 3
+Data reconstruction and verification succeeded. DataCheck set to true.
+Notification received, originally assigned to:  M3  with CAID =  C1
+request received
+Notification received, originally assigned to:  M3  with CAID =  C2
+Processing update from CA ID (CAID): C2, Monitor ID (MID): M3
+Update received, originally assigned to:  M3
+Number of data fragments collected: 3
+Notification received, originally assigned to:  M3  with CAID =  C1
+Data reconstruction and verification succeeded. DataCheck set to true.
+Notification received, originally assigned to:  M3  with CAID =  C2
+Notification received, originally assigned to:  M3  with CAID =  C1
+CA index mapped from CAID = 1 datafragmentindex mapped from MID =  2 with Bmode:  minimal wait time
+CA index mapped from CAID = 0 datafragmentindex mapped from MID =  2 with Bmode:  minimal wait time
+Notification received, originally assigned to:  M3  with CAID =  C2
+Notification received, originally assigned to:  M3  with CAID =  C2
+Notification received, originally assigned to:  M4  with CAID =  C1
+Notification received, originally assigned to:  M4  with CAID =  C2
+Processing update from CA ID (CAID): C1, Monitor ID (MID): M4
+Update received, originally assigned to:  M4
+Number of data fragments collected: 4
+Notification received, originally assigned to:  M4  with CAID =  C1
+request received
+Processing update from CA ID (CAID): C2, Monitor ID (MID): M4
+Update received, originally assigned to:  M4
+Number of data fragments collected: 4
+request received
+Notification received, originally assigned to:  M4  with CAID =  C2
+Notification received, originally assigned to:  M4  with CAID =  C1
+Notification received, originally assigned to:  M4  with CAID =  C2
+Notification received, originally assigned to:  M4  with CAID =  C1
+Notification received, originally assigned to:  M4  with CAID =  C2
+CA index mapped from CAID = 0 datafragmentindex mapped from MID =  3 with Bmode:  minimal wait time
+CA index mapped from CAID = 1 datafragmentindex mapped from MID =  3 with Bmode:  minimal wait time
+Processing update from Logger ID (LID): L1, Monitor ID (MID): M1
+M1
+Processing update from Logger ID (LID): L1, Monitor ID (MID): M2
+M2
+Processing update from Logger ID (LID): L1, Monitor ID (MID): M3
+Processing update from Logger ID (LID): L1, Monitor ID (MID): M4
+M3
+3333334
+3333334
+3333334
+3333334
+M4
+Processing update from Logger ID (LID): L2, Monitor ID (MID): M1
+M1
+Processing update from Logger ID (LID): L2, Monitor ID (MID): M3
+M3
+Processing update from Logger ID (LID): L2, Monitor ID (MID): M2
+M2
+3333334
+3333334
+3333334
+3333334
+Processing update from Logger ID (LID): L2, Monitor ID (MID): M4
+M4
+number of partial Signatures:  1
+number of partial Signatures:  1
+number of partial Signatures:  2
+WAKE_TM event triggered.
+number of partial Signatures:  3
+Time elapsed since start: 12.94270301s
+number of partial Signatures:  2
+revocation_partial_signature broadcasted
+WAKE_TM event triggered.
+number of partial Signatures:  3
+Time elapsed since start: 12.952034339s
+revocation_partial_signature broadcasted
+WAKE_TM event triggered.
+TBS:  {L1 1 5000 2025-06-03T01:54:08Z [233 9 77 146 187 34 82 121 81 28 22 220 254 202 146 95 221 116 25 53 45 73 196 192 182 223 76 67 227 214 216 188] {"sig":"","id":""}}
+number of partial Signatures:  1
+number of partial Signatures:  2
+number of partial Signatures:  3
+Time elapsed since start: 16.078483483s
+transparency_partial_signature broadcasted
+WAKE_TM event triggered.
+TBS:  {L1 1 5000 2025-06-03T01:54:08Z [233 9 77 146 187 34 82 121 81 28 22 220 254 202 146 95 221 116 25 53 45 73 196 192 182 223 76 67 227 214 216 188] {"sig":"","id":""}}
+transparency_partial_signature broadcasted
+WAKE_TM event triggered.
+TBS:  {L1 1 5000 2025-06-03T01:54:08Z [233 9 77 146 187 34 82 121 81 28 22 220 254 202 146 95 221 116 25 53 45 73 196 192 182 223 76 67 227 214 216 188] {"sig":"","id":""}}
+transparency_partial_signature broadcasted
+WAKE_TM event triggered.
+TBS:  {L1 1 5000 2025-06-03T01:54:08Z [233 9 77 146 187 34 82 121 81 28 22 220 254 202 146 95 221 116 25 53 45 73 196 192 182 223 76 67 227 214 216 188] {"sig":"","id":""}}
+transparency_partial_signature broadcasted
+number of partial Signatures:  1
+number of partial Signatures:  2
+WAKE_TM event triggered.
+TBS:  {L2 1 5000 2025-06-03T01:54:09Z [233 9 77 146 187 34 82 121 81 28 22 220 254 202 146 95 221 116 25 53 45 73 196 192 182 223 76 67 227 214 216 188] {"sig":"","id":""}}
+number of partial Signatures:  3
+Time elapsed since start: 17.003772181s
+transparency_partial_signature broadcasted
+WAKE_TM event triggered.
+WAKE_TM event triggered.
+TBS:  {L2 1 5000 2025-06-03T01:54:09Z [233 9 77 146 187 34 82 121 81 28 22 220 254 202 146 95 221 116 25 53 45 73 196 192 182 223 76 67 227 214 216 188] {"sig":"","id":""}}
+TBS:  {L2 1 5000 2025-06-03T01:54:09Z [233 9 77 146 187 34 82 121 81 28 22 220 254 202 146 95 221 116 25 53 45 73 196 192 182 223 76 67 227 214 216 188] {"sig":"","id":""}}
+transparency_partial_signature broadcasted
+transparency_partial_signature broadcasted
+WAKE_TM event triggered.
+TBS:  {L2 1 5000 2025-06-03T01:54:09Z [233 9 77 146 187 34 82 121 81 28 22 220 254 202 146 95 221 116 25 53 45 73 196 192 182 223 76 67 227 214 216 188] {"sig":"","id":""}}
+transparency_partial_signature broadcasted
+Terminating the program after MUD.
+Converge times successfully dumped to M1.json
