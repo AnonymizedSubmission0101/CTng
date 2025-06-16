@@ -25,7 +25,7 @@ in the project root directory
 
 Please refer to 
 
-TBD
+https://github.com/AnonymizedSubmission0101/CTngOnSphere/tree/main/CTng-on-Sphere_final_redacted
 
 Link to the testbed: 
 
